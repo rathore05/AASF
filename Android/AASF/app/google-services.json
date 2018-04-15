@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "261266126019",
+    "firebase_url": "https://aasf-3abbb.firebaseio.com",
+    "project_id": "aasf-3abbb",
+    "storage_bucket": "aasf-3abbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261266126019:android:66c01d142ed25b20",
+        "android_client_info": {
+          "package_name": "aasf.iiitm.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261266126019-pe0sa14ink7eqtgu1cudnaqi8qj2s6ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtou5oYGW2rfDPKkm3CkIzilDUz3I7uUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,522 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.support:design:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/605b33f45c2444c1673fd976d4602341/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/AndroidManifest.xml:17:1-31:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/35ab0e01ef5acb612e6ff3162ae90555/AndroidManifest.xml:1:70-7:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-core:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/763e37ee40e634f6f08253d4ee0604cb/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4724294900d572ded9454865dbbcdf63/AndroidManifest.xml:17:1-37:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/e6d5e95b53a9b5838f4329d7dfa7828e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8acf199252df586cad713ee841262763/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8ac1f658e3786e5d2fc08b3e34150671/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/61c4cbc616be7cf44e504f918e072c8e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/85bd73398a12bb6893342c95e518b98b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/04c72a8f9fe1ab0e18951828233d3331/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/44de618e7935ed9e32b023b0041eacb4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/e6cfeae7fe820f1eef2892db4a6034da/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4cae93e0912efaf418fd6b81298b088f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9248c1055fb85200c1fdb6d9a2636f39/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d74329ce288853d081ee2ae61ee5c8e2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8849ccf184e06a31906f5721e8ef30e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/462578d5dbb65b43b580afe88221658f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0adfdaf1c2cb7eafa81058a7109e796/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/d7f9c6478a5c921ff35320d67493e658/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/17d372e28d335f518018388756ef069c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/c4b7b9cfdef40e3dfaaefbdad8769099/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/4fd82aee088ec4cb2ab4a8f1249ec7e7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/67417338dc708497c610439af75a934d/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c92b76d1652a853651668440d0670d35/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/6b1cb46afc00b44f9832d2c74b63cbc3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/5fcc1710a0449efe384483dd321fe5ea/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml
+		INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml
+		INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml
+		INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:8:5-10:41
+INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:8:5-10:41
+INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/605b33f45c2444c1673fd976d4602341/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/605b33f45c2444c1673fd976d4602341/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/AndroidManifest.xml:21:5-23:78
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/35ab0e01ef5acb612e6ff3162ae90555/AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/35ab0e01ef5acb612e6ff3162ae90555/AndroidManifest.xml:3:5-72
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:19:5-43
+MERGED from [com.google.firebase:firebase-core:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/763e37ee40e634f6f08253d4ee0604cb/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/763e37ee40e634f6f08253d4ee0604cb/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4724294900d572ded9454865dbbcdf63/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4724294900d572ded9454865dbbcdf63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/e6d5e95b53a9b5838f4329d7dfa7828e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/e6d5e95b53a9b5838f4329d7dfa7828e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8acf199252df586cad713ee841262763/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8acf199252df586cad713ee841262763/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8ac1f658e3786e5d2fc08b3e34150671/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8ac1f658e3786e5d2fc08b3e34150671/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/61c4cbc616be7cf44e504f918e072c8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/61c4cbc616be7cf44e504f918e072c8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/85bd73398a12bb6893342c95e518b98b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/85bd73398a12bb6893342c95e518b98b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/04c72a8f9fe1ab0e18951828233d3331/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/04c72a8f9fe1ab0e18951828233d3331/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/44de618e7935ed9e32b023b0041eacb4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/44de618e7935ed9e32b023b0041eacb4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/e6cfeae7fe820f1eef2892db4a6034da/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/e6cfeae7fe820f1eef2892db4a6034da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4cae93e0912efaf418fd6b81298b088f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4cae93e0912efaf418fd6b81298b088f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9248c1055fb85200c1fdb6d9a2636f39/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9248c1055fb85200c1fdb6d9a2636f39/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d74329ce288853d081ee2ae61ee5c8e2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d74329ce288853d081ee2ae61ee5c8e2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8849ccf184e06a31906f5721e8ef30e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8849ccf184e06a31906f5721e8ef30e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/462578d5dbb65b43b580afe88221658f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/462578d5dbb65b43b580afe88221658f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0adfdaf1c2cb7eafa81058a7109e796/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0adfdaf1c2cb7eafa81058a7109e796/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/d7f9c6478a5c921ff35320d67493e658/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/d7f9c6478a5c921ff35320d67493e658/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/17d372e28d335f518018388756ef069c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/17d372e28d335f518018388756ef069c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/c4b7b9cfdef40e3dfaaefbdad8769099/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/c4b7b9cfdef40e3dfaaefbdad8769099/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/4fd82aee088ec4cb2ab4a8f1249ec7e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/4fd82aee088ec4cb2ab4a8f1249ec7e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/67417338dc708497c610439af75a934d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/67417338dc708497c610439af75a934d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c92b76d1652a853651668440d0670d35/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c92b76d1652a853651668440d0670d35/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/6b1cb46afc00b44f9832d2c74b63cbc3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/6b1cb46afc00b44f9832d2c74b63cbc3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/5fcc1710a0449efe384483dd321fe5ea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/5fcc1710a0449efe384483dd321fe5ea/AndroidManifest.xml:20:5-44
+INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:8:5-10:41
+INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/605b33f45c2444c1673fd976d4602341/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml
+		INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:9:9-34
+		INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml
+		INJECTED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:15:22-77
+application
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:17:5-50:19
+MERGED from [com.android.support:design:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/605b33f45c2444c1673fd976d4602341/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/605b33f45c2444c1673fd976d4602341/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/AndroidManifest.xml:25:5-29:19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/35ab0e01ef5acb612e6ff3162ae90555/AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/35ab0e01ef5acb612e6ff3162ae90555/AndroidManifest.xml:5:5-19
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:45:5-53:19
+MERGED from [com.google.firebase:firebase-core:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/763e37ee40e634f6f08253d4ee0604cb/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/763e37ee40e634f6f08253d4ee0604cb/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4724294900d572ded9454865dbbcdf63/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4724294900d572ded9454865dbbcdf63/AndroidManifest.xml:22:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/e6d5e95b53a9b5838f4329d7dfa7828e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/e6d5e95b53a9b5838f4329d7dfa7828e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8acf199252df586cad713ee841262763/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8acf199252df586cad713ee841262763/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8ac1f658e3786e5d2fc08b3e34150671/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8ac1f658e3786e5d2fc08b3e34150671/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/61c4cbc616be7cf44e504f918e072c8e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/61c4cbc616be7cf44e504f918e072c8e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/85bd73398a12bb6893342c95e518b98b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/85bd73398a12bb6893342c95e518b98b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/04c72a8f9fe1ab0e18951828233d3331/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/04c72a8f9fe1ab0e18951828233d3331/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/44de618e7935ed9e32b023b0041eacb4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/44de618e7935ed9e32b023b0041eacb4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/e6cfeae7fe820f1eef2892db4a6034da/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/e6cfeae7fe820f1eef2892db4a6034da/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4cae93e0912efaf418fd6b81298b088f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4cae93e0912efaf418fd6b81298b088f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9248c1055fb85200c1fdb6d9a2636f39/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9248c1055fb85200c1fdb6d9a2636f39/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d74329ce288853d081ee2ae61ee5c8e2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d74329ce288853d081ee2ae61ee5c8e2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8849ccf184e06a31906f5721e8ef30e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8849ccf184e06a31906f5721e8ef30e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/462578d5dbb65b43b580afe88221658f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/462578d5dbb65b43b580afe88221658f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0adfdaf1c2cb7eafa81058a7109e796/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0adfdaf1c2cb7eafa81058a7109e796/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/d7f9c6478a5c921ff35320d67493e658/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/d7f9c6478a5c921ff35320d67493e658/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/17d372e28d335f518018388756ef069c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/17d372e28d335f518018388756ef069c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/c4b7b9cfdef40e3dfaaefbdad8769099/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/c4b7b9cfdef40e3dfaaefbdad8769099/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/4fd82aee088ec4cb2ab4a8f1249ec7e7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/4fd82aee088ec4cb2ab4a8f1249ec7e7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/67417338dc708497c610439af75a934d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/67417338dc708497c610439af75a934d/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c92b76d1652a853651668440d0670d35/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c92b76d1652a853651668440d0670d35/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/6b1cb46afc00b44f9832d2c74b63cbc3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/6b1cb46afc00b44f9832d2c74b63cbc3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/5fcc1710a0449efe384483dd321fe5ea/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/5fcc1710a0449efe384483dd321fe5ea/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:18:9-42
+meta-data#android.support.VERSION
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:23:9-26:45
+MERGED from [com.android.support:design:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/605b33f45c2444c1673fd976d4602341/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/605b33f45c2444c1673fd976d4602341/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8acf199252df586cad713ee841262763/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8acf199252df586cad713ee841262763/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8ac1f658e3786e5d2fc08b3e34150671/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8ac1f658e3786e5d2fc08b3e34150671/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/61c4cbc616be7cf44e504f918e072c8e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/61c4cbc616be7cf44e504f918e072c8e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/85bd73398a12bb6893342c95e518b98b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/85bd73398a12bb6893342c95e518b98b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4cae93e0912efaf418fd6b81298b088f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4cae93e0912efaf418fd6b81298b088f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9248c1055fb85200c1fdb6d9a2636f39/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9248c1055fb85200c1fdb6d9a2636f39/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d74329ce288853d081ee2ae61ee5c8e2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d74329ce288853d081ee2ae61ee5c8e2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8849ccf184e06a31906f5721e8ef30e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8849ccf184e06a31906f5721e8ef30e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/462578d5dbb65b43b580afe88221658f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/462578d5dbb65b43b580afe88221658f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0adfdaf1c2cb7eafa81058a7109e796/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0adfdaf1c2cb7eafa81058a7109e796/AndroidManifest.xml:26:9-28:38
+	tools:replace
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:26:13-42
+	android:value
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:design:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/605b33f45c2444c1673fd976d4602341/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:appcompat-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:animated-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8acf199252df586cad713ee841262763/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:support-vector-drawable:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/8ac1f658e3786e5d2fc08b3e34150671/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:recyclerview-v7:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/61c4cbc616be7cf44e504f918e072c8e/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:transition:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/85bd73398a12bb6893342c95e518b98b/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:support-v4:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/4cae93e0912efaf418fd6b81298b088f/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-fragment:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9248c1055fb85200c1fdb6d9a2636f39/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-core-ui:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d74329ce288853d081ee2ae61ee5c8e2/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-media-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c8849ccf184e06a31906f5721e8ef30e/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-core-utils:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/462578d5dbb65b43b580afe88221658f/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-compat:26.1.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0adfdaf1c2cb7eafa81058a7109e796/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:24:13-51
+activity#aasf.iiitm.app.activity.LoginActivity
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:28:9-38:20
+	android:label
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:30:13-45
+	android:launchMode
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:31:13-43
+	android:windowSoftInputMode
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:29:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:36:27-74
+service#aasf.iiitm.app.activity.FirebaseMessagingService
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:39:9-43:19
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:39:18-67
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:40:13-42:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:41:25-75
+activity#aasf.iiitm.app.activity.MainActivity
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:45:9-48:46
+	android:label
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:47:13-45
+	android:launchMode
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:46:13-50
+activity#aasf.iiitm.app.activity.FeedbackActivity
+ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:49:9-72
+	android:name
+		ADDED from /home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/src/main/AndroidManifest.xml:49:19-60
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.4.0.aar/4d2bb5f8273f1c030a0ecb464444a0a4/AndroidManifest.xml:47:13-74
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4724294900d572ded9454865dbbcdf63/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4724294900d572ded9454865dbbcdf63/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4724294900d572ded9454865dbbcdf63/AndroidManifest.xml:29:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/977a3919de08011803bc5648369de1af/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/03656a9ed49b43af24f30a20f14bb56f/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:29:9-63
+permission#aasf.iiitm.app.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:32:22-76
+uses-permission#aasf.iiitm.app.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:39:13-43:29
+intent-filter#aasf.iiitm.app+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:42:27-58
+category#aasf.iiitm.app
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/411057ac01c265742d13bc0657ce4e8d/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/04c72a8f9fe1ab0e18951828233d3331/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/04c72a8f9fe1ab0e18951828233d3331/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/04c72a8f9fe1ab0e18951828233d3331/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/04c72a8f9fe1ab0e18951828233d3331/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/04c72a8f9fe1ab0e18951828233d3331/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/e6cfeae7fe820f1eef2892db4a6034da/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/e6cfeae7fe820f1eef2892db4a6034da/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/slytherin/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/e6cfeae7fe820f1eef2892db4a6034da/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c92b76d1652a853651668440d0670d35/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c92b76d1652a853651668440d0670d35/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/slytherin/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c92b76d1652a853651668440d0670d35/AndroidManifest.xml:26:13-58

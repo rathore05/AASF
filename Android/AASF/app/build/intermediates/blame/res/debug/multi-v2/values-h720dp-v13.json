@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/slytherin/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/605b33f45c2444c1673fd976d4602341/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/slytherin/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration v2/AASF/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/slytherin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/5380cd304e8d00d2f34eac0c82aa5486/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/slytherin/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/605b33f45c2444c1673fd976d4602341/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}
